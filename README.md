@@ -3,6 +3,6 @@ This project looks at why employees leave or stay, from the view of a junior bus
 
 The repository contains two files.
 
-One file contains the Tableau Dashboard of the Employee-Attrition and the other file contains a report that includes findings, trends and written analysis with screenshots
+One file contains the Tableau Dashboard of the Employee-Attrition and the other file contains a report that includes findings, trends and written analysis with screenshots.
 
 

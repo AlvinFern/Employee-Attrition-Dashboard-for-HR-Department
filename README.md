@@ -42,9 +42,6 @@ For both boxes, the whisker lengths are comparable. This implies that there is s
 
 There is one outlier for ‘no’ attrition with the income range being $7000-$9999 in which the employee count is 132. 95 employees who left the company has been plotted outside the box where the income range is $2000-$2999 making it a low-income range.
 
-![image](https://github.com/user-attachments/assets/527ce797-88d1-4858-b5c2-5b0f6582f9c3)
-
-
 **Job Satisfaction by Attrition**
 
 ![image](https://github.com/user-attachments/assets/53a9c236-892d-4efe-a624-996fe986d90b)

@@ -24,12 +24,14 @@ This bar chart displays the attrition rate across different job roles. The job r
 -	Sales Executive
 -	Sales Representative 
 
+![image](https://github.com/user-attachments/assets/ca6ca200-f123-4344-a4e8-24dc71f1d8db)
+
 We can see in the below filtered (Yes) bar chart, that Sales Executive, Research Scientist, and Laboratory Technician display higher rate of attrition compared to the rest of the job roles.
 Similarly most employees that worked as Sales Executive, Research Scientist, and Laboratory Technician also remained at the company. This can mean that each employee had a unique experience at these roles that influnenced some to leave and some to stay. 
 
 **Income Range by Atrrition**
 
-![image](https://github.com/user-attachments/assets/ca6ca200-f123-4344-a4e8-24dc71f1d8db)
+![image](https://github.com/user-attachments/assets/ae93c377-66a7-48f2-96a7-d97647ae8db5)
 
 The income range and employee attrition is represented in the form of a box plot. 
 For both employees who departed and those who stayed, the medians are essentially at the same level. This implies that there may not be noticeable variations in the two groups' median incomes.

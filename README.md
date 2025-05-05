@@ -12,6 +12,7 @@ The graph suggests a significant correlation between employee age and attrition.
 **Attrition by Job Roles**
 
 ![image](https://github.com/user-attachments/assets/7947e5ec-e02b-42d1-a958-100d0b4e26ef)
+
 This bar chart displays the attrition rate across different job roles. The job roles specified in the graph are: 
 -	Healthcare Representative 
 -	Human Resource 

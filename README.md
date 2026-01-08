@@ -6,8 +6,11 @@ Objective This analysis investigates the key drivers behind employee turnover to
 
 # Key Findings
 ‣ Demographic Vulnerability: Attrition is most prevalent among younger employees (ages 20–35), suggesting a need for better early-career engagement or clearer growth pathways.
+
 ‣ Role-Specific Turnover: Sales Executives, Research Scientists, and Laboratory Technicians exhibit the highest volume of departures. While these roles also have high headcount, the concentrated loss of talent in these areas suggests role-specific stressors.
+
 ‣ Financial & Growth Triggers: Lower-income brackets ($2,000–$2,999) show the highest attrition rates. Furthermore, while standard 13-14% salary hikes are common, they do not seem sufficient to retain top talent; only hikes exceeding 22% showed a definitive correlation with high retention.
+
 ‣ Training & Development: Frequent training (4+ sessions annually) correlates with higher retention, whereas minimal training or moderate training (2-3 sessions) saw higher turnover rates.
 
 # Recommendations 

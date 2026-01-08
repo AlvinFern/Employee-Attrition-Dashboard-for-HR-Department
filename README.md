@@ -88,8 +88,9 @@ But the leavers' (Yes) box is positioned a slightly lower than the stayers' (No)
 
 For both boxes, the whisker lengths are comparable. This implies that there is similarity between the two groups in the income data scattered outside of the quartiles.
 
-There is one outlier for ‘no’ attrition with the income range being $7000-$9999 in which the employee count is 132. 95 employees who left the company has been plotted outside the box where the income range is $2000-$2999 making it a low-income range.
+High-Attrition Outlier (Count: 95): Within the group of employees who left, this outlier represents a disproportionately high volume of departures. This likely corresponds to the $2,000–$2,999 income range, indicating a high-risk zone for the company.
 
+Low-Headcount Retention Outlier (Count: 132): Within the group of employees who stayed, this outlier sits far below the main cluster. This represents a smaller, niche demographic—such as senior leadership—where retention is high, but the total number of staff is low.
 
 **Job Satisfaction by Attrition**
 

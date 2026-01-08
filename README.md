@@ -16,7 +16,9 @@ Objective This analysis investigates the key drivers behind employee turnover to
 # Recommendations 
 HR department in the company should focus on: 
 ‣ Structured mentorship for the 20-35 age bracket.
+
 ‣ Review the compensation competitiveness for laboratory and sales roles.
+
 ‣ Increase professional development opportunities to at least four sessions per year to foster long-term loyalty.
 
 **Insights and Analysis**
@@ -32,6 +34,7 @@ The graph suggests a significant correlation between employee age and attrition.
 
 ![image](https://github.com/user-attachments/assets/7947e5ec-e02b-42d1-a958-100d0b4e26ef)
 
+
 This bar chart displays the attrition rate across different job roles. The job roles specified in the graph are: 
 -	Healthcare Representative 
 -	Human Resource 
@@ -45,12 +48,16 @@ This bar chart displays the attrition rate across different job roles. The job r
 
 ![image](https://github.com/user-attachments/assets/ca6ca200-f123-4344-a4e8-24dc71f1d8db)
 
+
 We can see in the below filtered (Yes) bar chart, that Sales Executive, Research Scientist, and Laboratory Technician display higher rate of attrition compared to the rest of the job roles.
 Similarly most employees that worked as Sales Executive, Research Scientist, and Laboratory Technician also remained at the company. This can mean that each employee had a unique experience at these roles that influnenced some to leave and some to stay. 
 
+
 **Income Range by Atrrition**
 
+
 ![image](https://github.com/user-attachments/assets/ae93c377-66a7-48f2-96a7-d97647ae8db5)
+
 
 The income range and employee attrition is represented in the form of a box plot. 
 For both employees who departed and those who stayed, the medians are essentially at the same level. This implies that there may not be noticeable variations in the two groups' median incomes.
@@ -61,15 +68,20 @@ For both boxes, the whisker lengths are comparable. This implies that there is s
 
 There is one outlier for ‘no’ attrition with the income range being $7000-$9999 in which the employee count is 132. 95 employees who left the company has been plotted outside the box where the income range is $2000-$2999 making it a low-income range.
 
+
 **Job Satisfaction by Attrition**
+
 
 ![image](https://github.com/user-attachments/assets/53a9c236-892d-4efe-a624-996fe986d90b)
 
+
 In a general overview, some employees that are least satisfied left the company as shown in the above Figure. While most employees that are least satisfied continued with the same company. As the satisfaction increases more employees stayed with the company. The age filter is also displayed to show the different age range of employees that are satisfied with their job in regard to the attrition rate. 
+
 
 **Final Dashboard**
 
 ![image](https://github.com/user-attachments/assets/9c5ae02a-8fc2-405d-85ba-7ea0698157e3)
+
 
 Employees that earn $2000-$2999 have the highest attrition amongst other income groups. Meanwhile in the ‘No’ attrition bar chart, employees that earn from $3000-$4999 are most likely to stay in the company along with people earning from $2000-$2999 and from $10000-$12000 a month. 
 

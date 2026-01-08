@@ -48,9 +48,9 @@ HR Analytics: Metric development for attrition rates, salary hike impacts, and t
 
 ![image](https://github.com/user-attachments/assets/3b33cefb-8888-4250-aede-c1a8836d16ad)
 
-Analysis shows that attrition is most aggressive among early-to-mid-career professionals (ages 20–35). While the total number of employees peaks in the 30–35 bin, this group also represents the highest volume of departures. 
+The age distribution analysis reveals a high propensity for attrition within the 25–35 age bins. While the total employee count peaks in the 30–35 age interval, this group also experiences the highest volume of departures. 
 
-Conversely, as employees age beyond 40, the likelihood of attrition drops significantly, showing a more stable and loyal workforce in senior age brackets.
+Interestingly, as employees age beyond 40, the likelihood of attrition drops significantly, showing a more stable and loyal workforce in senior age brackets.
 
 **Attrition by Job Roles**
 

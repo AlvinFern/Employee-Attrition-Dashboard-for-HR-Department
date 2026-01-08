@@ -21,7 +21,7 @@ HR department in the company should focus on:
 
 ‣ Increase professional development opportunities to at least four sessions per year to foster long-term loyalty.
 
-**Insights and Analysis**
+# Insights and Analysis
 
 **Age Distribution based on Employee Attrition**
 
@@ -78,7 +78,7 @@ There is one outlier for ‘no’ attrition with the income range being $7000-$9
 In a general overview, some employees that are least satisfied left the company as shown in the above Figure. While most employees that are least satisfied continued with the same company. As the satisfaction increases more employees stayed with the company. The age filter is also displayed to show the different age range of employees that are satisfied with their job in regard to the attrition rate. 
 
 
-**Final Dashboard**
+# Final Dashboard
 
 ![image](https://github.com/user-attachments/assets/9c5ae02a-8fc2-405d-85ba-7ea0698157e3)
 

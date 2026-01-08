@@ -1,11 +1,27 @@
 # Employee-Attrition-Dashboard-for-HR-Department
 This project looks at why employees leave or stay, from the view of a junior business analyst working with the HR team. Using Tableau and a detailed dataset, it explores how factors like age, job role, income, and satisfaction influence attrition, aiming to help HR build better strategies to keep employees engaged.
 
+# Executive Summary
+Objective This analysis investigates the key drivers behind employee turnover to provide the HR department with data-driven insights for improving retention strategies. By examining a dataset of organizational health metrics, the study identifies high-risk demographics and departmental pain points.
+
+# Key Findings
+‣ Demographic Vulnerability: Attrition is most prevalent among younger employees (ages 20–35), suggesting a need for better early-career engagement or clearer growth pathways.
+‣ Role-Specific Turnover: Sales Executives, Research Scientists, and Laboratory Technicians exhibit the highest volume of departures. While these roles also have high headcount, the concentrated loss of talent in these areas suggests role-specific stressors.
+‣ Financial & Growth Triggers: Lower-income brackets ($2,000–$2,999) show the highest attrition rates. Furthermore, while standard 13-14% salary hikes are common, they do not seem sufficient to retain top talent; only hikes exceeding 22% showed a definitive correlation with high retention.
+‣ Training & Development: Frequent training (4+ sessions annually) correlates with higher retention, whereas minimal training or moderate training (2-3 sessions) saw higher turnover rates.
+
+# Recommendations 
+HR department in the company should focus on: 
+‣ Structured mentorship for the 20-35 age bracket.
+‣ Review the compensation competitiveness for laboratory and sales roles.
+‣ Increase professional development opportunities to at least four sessions per year to foster long-term loyalty.
+
 **Insights and Analysis**
 
 **Age Distribution based on Employee Attrition**
 
 ![image](https://github.com/user-attachments/assets/3b33cefb-8888-4250-aede-c1a8836d16ad)
+
 The graph suggests a significant correlation between employee age and attrition. Younger employees, particularly those between 20 and 35 years old, appear to have a higher propensity to leave the company compared to their older counterparts. The number of employees who stayed with the company steadily increases with age.
 
 

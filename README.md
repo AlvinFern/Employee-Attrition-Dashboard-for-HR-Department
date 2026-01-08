@@ -4,6 +4,18 @@ This project looks at why employees leave or stay, from the view of a junior bus
 # Executive Summary
 Objective This analysis investigates the key drivers behind employee turnover to provide the HR department with data-driven insights for improving retention strategies. By examining a dataset of organizational health metrics, the study identifies high-risk demographics and departmental pain points.
 
+# Business Problem
+
+The organization is experiencing a noticeable shift in talent retention, impacting operational continuity and recruitment costs. While the company maintains a diverse workforce across various job roles and income levels, HR has identified an increasing trend of voluntary departures.
+
+**Problem Statement**
+
+The HR department lacks a clear understanding of the specific socio-economic and professional drivers contributing to employee attrition. Without identifying which demographics (age, income) and departments (job roles) are most at risk, the company cannot implement targeted retention strategies, leading to the potential loss of high-performing talent and increased turnover expenses.
+
+**Goal** 
+
+To analyze historical employee data using Tableau to identify high-risk attrition clusters and provide actionable recommendations to HR for improving job satisfaction and long-term employee engagement.
+
 # Key Findings
 ‣ Demographic Vulnerability: Attrition is most prevalent among younger employees (ages 20–35), suggesting a need for better early-career engagement or clearer growth pathways.
 
@@ -20,6 +32,15 @@ HR department in the company should focus on:
 ‣ Review the compensation competitiveness for laboratory and sales roles.
 
 ‣ Increase professional development opportunities to at least four sessions per year to foster long-term loyalty.
+
+# Technical Toolkit
+Data Visualization: Tableau Desktop (creating interactive dashboards, box plots, and dual-axis charts).
+
+Data Analysis: Exploratory Data Analysis (EDA), Correlation Analysis, and Trend Identification.
+
+Statistical Concepts: Distribution analysis, Outlier detection, and Quartile interpretation.
+
+HR Analytics: Metric development for attrition rates, salary hike impacts, and training effectiveness.
 
 # Insights and Analysis
 

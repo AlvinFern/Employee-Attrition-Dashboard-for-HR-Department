@@ -84,13 +84,13 @@ Similarly most employees that worked as Sales Executive, Research Scientist, and
 The income range and employee attrition is represented in the form of a box plot. 
 For both employees who departed and those who stayed, the medians are essentially at the same level. This implies that there may not be noticeable variations in the two groups' median incomes.
 
-But the leavers' (Yes) box is positioned a slightly lower than the stayers' (No) box. This might point to a pattern where employees who make a little less money are more inclined to quit the company.
+But the leavers' (Yes) box is positioned a slightly lower than the stayers' (No) box. This points to a pattern where employees who make a little less money are more inclined to quit the company.
 
 For both boxes, the whisker lengths are comparable. This implies that there is similarity between the two groups in the income data scattered outside of the quartiles.
 
-High-Attrition Outlier (Count: 95): Within the group of employees who left, this outlier represents a disproportionately high volume of departures. This likely corresponds to the $2,000–$2,999 income range, indicating a high-risk zone for the company.
+**High-Attrition Outlier (Count: 95)**: Within the group of employees who left, this outlier represents a disproportionately high volume of departures. This likely corresponds to the $2,000–$2,999 income range, indicating a high-risk zone for the company.
 
-Low-Headcount Retention Outlier (Count: 132): Within the group of employees who stayed, this outlier sits far below the main cluster. This represents a smaller, niche demographic—such as senior leadership—where retention is high, but the total number of staff is low.
+**Low-Headcount Retention Outlier (Count: 132)**: Within the group of employees who stayed, this outlier sits far below the main cluster. This represents a smaller, niche demographic—such as senior leadership—where retention is high, but the total number of staff is low.
 
 **Job Satisfaction by Attrition**
 

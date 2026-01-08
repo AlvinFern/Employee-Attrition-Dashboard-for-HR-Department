@@ -116,8 +116,8 @@ Most of the employees that stayed in the company also trained 2-3 but only 62 em
 
 
 
-The repository contains two files.
-
-One file contains the Tableau Dashboard of the Employee-Attrition and the other file contains a report that includes findings, trends and written analysis with screenshots.
+**The repository contains two files.**
+⁃ Tableau Dashboard of the Employee-Attrition 
+⁃ Report that includes findings, trends and written analysis with screenshots.
 
 

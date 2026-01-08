@@ -48,8 +48,9 @@ HR Analytics: Metric development for attrition rates, salary hike impacts, and t
 
 ![image](https://github.com/user-attachments/assets/3b33cefb-8888-4250-aede-c1a8836d16ad)
 
-The graph suggests a significant correlation between employee age and attrition. Younger employees, particularly those between 20 and 35 years old, appear to have a higher propensity to leave the company compared to their older counterparts. The number of employees who stayed with the company steadily increases with age.
+Analysis shows that attrition is most aggressive among early-to-mid-career professionals (ages 20–35). While the total number of employees peaks in the 30–35 bin, this group also represents the highest volume of departures. 
 
+Conversely, as employees age beyond 40, the likelihood of attrition drops significantly, showing a more stable and loyal workforce in senior age brackets.
 
 **Attrition by Job Roles**
 
